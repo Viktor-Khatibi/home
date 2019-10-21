@@ -1,0 +1,30 @@
+body
+{
+	background-color: #9ee4ff;
+}
+h1
+{
+	border-style: solid;
+	border-color: #f6ff00;  
+	color: #541982;
+}
+h2
+{ 
+	color: #ffa42e;
+	border-style: dotted;
+	border-color: #000563; 
+}
+h3
+{
+	color: #f9ff9e;
+	border-style: dashed;
+	border-color: #ff0000;	
+} 
+p
+{
+	color: #661010;
+}
+li
+{  
+	color: #661010;
+}
